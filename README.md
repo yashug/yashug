@@ -9,7 +9,7 @@
 
 - My Portofolio Website on [https://www.yg-dev.com/](https://www.yg-dev.com/)
 
-- 📝 I regularly write articles on [https://yg.hashnode.dev/](https://yg.hashnode.dev/)
+- 📝 I regularly write articles on [https://blog.yg-dev.com/](https://blog.yg-dev.com/)
 
 - 📫 How to reach me **gosulayaswanth2@gmail.com**
 
