@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/urstrulyyashu5" target="blank"><img src="https://img.shields.io/twitter/follow/urstrulyyashu5?logo=twitter&style=for-the-badge" alt="yaswanth_gosula" /></a> </p>
 
-- My Portofolio Website on [https://www.yg-dev.com/](https://www.yg-dev.com/)
+- My Portofolio Website on [https://dub.sh/yaswanth](https://dub.sh/yaswanth)
 
 - 📝 I regularly write articles on [https://blog.yg-dev.com/](https://blog.yg-dev.com/)
 
